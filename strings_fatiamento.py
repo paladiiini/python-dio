@@ -13,4 +13,4 @@ print("-".join(menu))
 
 profissao = "QA"
 
-print(Meu nome é {nome} e minha profissão é {profissao})
+print("Meu nome é {nome} e minha profissão é {profissao}")
